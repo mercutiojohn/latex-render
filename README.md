@@ -1,6 +1,6 @@
 # Overleaf API 服务
 
-这是一个基于 FastAPI 的 Overleaf API 服务，提供了 LaTeX 文档的编译和管理功能。
+一个基于 FastAPI 的 Overleaf API 服务，提供了 LaTeX 文档的编译和管理功能，隐藏了 Overleaf 实例，支持 PDF 文件下载。
 
 ## 功能特点
 
